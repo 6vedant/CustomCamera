@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934289725420",
+    "firebase_url": "https://customcamera-f5630.firebaseio.com",
+    "project_id": "customcamera-f5630",
+    "storage_bucket": "customcamera-f5630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934289725420:android:d488da8ecc446b7b8012c9",
+        "android_client_info": {
+          "package_name": "xyz.vedant.customcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934289725420-pllqv28buvmepv2uqbceii90n47n6qe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.vedant.customcamera",
+            "certificate_hash": "f5ef2901a398aec93c23f6f86bd73ae4c70e48a3"
+          }
+        },
+        {
+          "client_id": "934289725420-3jl9noh9qj6dsoo5k6peo93u6qvap0po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCFj297rs0xWpLeAioaeWgwIzkjMiSVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934289725420-3jl9noh9qj6dsoo5k6peo93u6qvap0po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

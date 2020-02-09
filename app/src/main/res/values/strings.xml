@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomCamera</string>
+    <string name="title_home">Click</string>
+    <string name="title_dashboard">Gallery</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="progress_uploading">Uploading…</string>
+
+    <string name="upload_success">Upload finished</string>
+    <string name="upload_failure">Upload failed</string>
+    <string name="title_activity_custom_camera">CustomCamera</string>\
+
+
+</resources>
